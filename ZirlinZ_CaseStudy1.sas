@@ -1,5 +1,4 @@
 /* Zoe Zirlin Case Study 1*/
-/*I certify that the SAS code given is my original and exclusive work*/
 
 FILENAME CSV '/home/u42893137/ZZ/BeerPhenols.csv' TERMSTR=CRLF; /*1A: Include the data 
 step or Proc Import code used to get your data into a SAS data set.*/
